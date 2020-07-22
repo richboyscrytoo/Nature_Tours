@@ -3,7 +3,7 @@
 
 **Description:**
 Are you fan of hiking? Check Nature Tours! It's simple, creative and beautiful. It consists of different blocks, which you can change as you wish. Don't overthink just grab it and use:)
-### [LIVE](https://vladyslav-vasylenko.github.io/Nature_Tours/)
+### [LIVE](https://vladyslav.github.io/Nature_Tours/)
 **Technologies used:**
  - HTML
  - CSS
